@@ -1,0 +1,15 @@
+#b {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    background-color: white;
+    z-index: 20;
+    cursor: cell;
+}
+
+body {
+    background-color: black;
+    cursor: crosshair;
+}
