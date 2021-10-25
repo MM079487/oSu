@@ -9,6 +9,15 @@
     cursor: cell;
 }
 
+#score {
+    color: white;
+    position: absolute;
+    top: 0%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
 body {
     background-color: black;
     cursor: crosshair;
